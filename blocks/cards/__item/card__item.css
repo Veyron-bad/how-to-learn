@@ -1,9 +1,9 @@
-.cart__item {
+.card__item {
   list-style-type: none;
   margin: 60px 100px 0 0;
   width: 240px;
 }
 
-.cards .cart__item:nth-child(3) {
+.cards .card__item:nth-child(3) {
   margin-right: 0;
 }

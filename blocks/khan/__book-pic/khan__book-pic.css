@@ -4,3 +4,8 @@
   margin-right: 48px;
   overflow-y: hidden;
 }
+
+.khan__book-pic img {
+  height: auto;
+  width: 100%;
+}

@@ -2,7 +2,8 @@
   line-height: 1.15em;
   font-size: 120px;
   font-weight: 700;
-  width: 648px;
+  max-width: 648px;
+  width: 100%;
   margin: 0 auto;
   text-align: center;
 }

@@ -3,6 +3,7 @@
   line-height: 1.2em;
   font-weight: normal;
   font-size: 18px;
-  width: 175px;
+  max-width: 175px;
+  width: 100%;
   margin: 0;
 }

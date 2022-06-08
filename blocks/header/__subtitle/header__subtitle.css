@@ -1,5 +1,6 @@
 .header__subtitle {
-  width: 388px;
+  max-width: 388px;
+  width: 100%;
   line-height: 25px;
   font-size: 18px;
   font-style: normal;
@@ -9,3 +10,5 @@
   margin: 0;
   z-index: 2;
 }
+
+/* Значение width по брифу 388px */
